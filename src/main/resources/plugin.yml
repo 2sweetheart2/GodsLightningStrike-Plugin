@@ -1,0 +1,5 @@
+name: Jesus
+version: ${project.version}
+main: me.sweettie.Main
+api-version: 1.15
+authors: [ Sweettie ]
