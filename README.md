@@ -16,10 +16,5 @@ dangerousWords - слова, при которых будет бить молн�
 randomPlayer - будет ли молния бить случайного человека или того, кто отправил текст 
 
 # Download jar plugin
-EN:
 
-download the project, it will contain the file "JesusPlugin.jar"
-
-RU:
-
-в проете будет файл "JesusPlugin.jar", это и есть сам плагин
+[click](https://github.com/2sweetheart2/GodsLightningStrike-Plugin/issues/1)
