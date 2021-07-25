@@ -1,2 +1,3 @@
 dangerousWords: ["jesus","god"]
 randomPlayer: true
+radius: 5
