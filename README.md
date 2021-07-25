@@ -17,4 +17,4 @@ randomPlayer - будет ли молния бить случайного чел
 
 # Download jar plugin
 
-[click](https://github.com/2sweetheart2/GodsLightningStrike-Plugin/issues/1)
+[click](https://github.com/2sweetheart2/GodsLightningStrike-Plugin/releases/tag/2.0)
